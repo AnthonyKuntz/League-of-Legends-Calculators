@@ -1,0 +1,6 @@
+To run, make sure you have Python 2.7 downloaded.
+
+It can be found here:
+https://www.python.org/downloads/
+
+Run the python file named veigar. A pop up window should immediately appear.
